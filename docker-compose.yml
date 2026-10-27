@@ -1,6 +1,0 @@
-# Starter file. Add your own services (your app, Postgres) next to payswift. Leave payswift as it is.
-services:
-  payswift:
-    build: ./payswift
-    ports:
-      - "8081:8081"
